@@ -1,6 +1,8 @@
 package utils;
 
 import aquality.selenium.browser.AqualityServices;
+import aquality.selenium.core.utilities.ISettingsFile;
+import aquality.selenium.core.utilities.JsonSettingsFile;
 import com.google.gson.Gson;
 import lombok.experimental.UtilityClass;
 import models.*;
@@ -10,67 +12,33 @@ import java.io.FileReader;
 
 @UtilityClass
 public class SettingsTestData {
-    public final String RESOURCE_FILE_PATH = "src/test/resources/";
-    private final String ENV_FILE_PATH = RESOURCE_FILE_PATH + "env.json";
-    private final String PROD_ENV_FILE_PATH = RESOURCE_FILE_PATH + "prodenv.json";
-    private final String USER_FILE_PATH = RESOURCE_FILE_PATH + "userData.json";
-    private final String DATA_TABLE_FILE_PATH = RESOURCE_FILE_PATH + "dataTableData.json";
-    private final String FILE_DATA_PATH = RESOURCE_FILE_PATH + "fileData.json";
-    private final String ERROR_MSG = "File with environment settings not found or incorrect";
-    private Gson gson = new Gson();
-
-
-    private Env getEnvironment() {
-        try {
-            return gson.fromJson(new FileReader(ENV_FILE_PATH), Env.class);
-        }
-        catch (FileNotFoundException e) {
-            AqualityServices.getLogger().error(ERROR_MSG);
-            throw new RuntimeException(ERROR_MSG);
-        }
-    }
+    public final String RESOURCES_PATH = "src/test/resources/";
+    public final String TEST_DATA_PATH = RESOURCES_PATH + "testdata/";
+    private final String ENVIRONMENT_PATH = RESOURCES_PATH + "environment/";
+    private final String DATA_TABLE_FILE_PATH = TEST_DATA_PATH + "dataTableData.json";
+    private final ISettingsFile ENVIRONMENT_CONFIG = new JsonSettingsFile("env.json");
+    private final Gson GSON = new Gson();
 
     public EnvData getEnvData() {
-        try {
-            if (getEnvironment().getEnv().equals("prod")) {
-                return gson.fromJson(new FileReader(PROD_ENV_FILE_PATH), EnvData.class);
-            }
-            AqualityServices.getLogger().info("Env is not set");
-            throw new RuntimeException(ERROR_MSG);
-        }
-        catch (FileNotFoundException e) {
-            AqualityServices.getLogger().error(ERROR_MSG);
-            throw new RuntimeException(ERROR_MSG);
-        }
-    }
-
-    public UserData getUserData() {
-        try {
-            return gson.fromJson(new FileReader(USER_FILE_PATH), UserData.class);
-        }
-        catch (FileNotFoundException e) {
-            AqualityServices.getLogger().error(ERROR_MSG);
-            throw new RuntimeException(ERROR_MSG);
-        }
+        String envConfigPath = "%s%s.json".formatted(ENVIRONMENT_PATH, getCurrentEnvironment());
+        return deserializeJson(envConfigPath, EnvData.class);
     }
 
     public DataTableData getDataTableData() {
-        try {
-            return gson.fromJson(new FileReader(DATA_TABLE_FILE_PATH), DataTableData.class);
-        }
-        catch (FileNotFoundException e) {
-            AqualityServices.getLogger().error(ERROR_MSG);
-            throw new RuntimeException(ERROR_MSG);
-        }
+        return deserializeJson(DATA_TABLE_FILE_PATH, DataTableData.class);
     }
 
-    public FileData getFileData() {
+    private String getCurrentEnvironment() {
+        return ENVIRONMENT_CONFIG.getValue("/env").toString();
+    }
+
+    private <T> T deserializeJson(String filePath, Class<T> tClass) {
         try {
-            return gson.fromJson(new FileReader(FILE_DATA_PATH), FileData.class);
+            return GSON.fromJson(new FileReader(filePath), tClass);
         }
         catch (FileNotFoundException e) {
-            AqualityServices.getLogger().error(ERROR_MSG);
-            throw new RuntimeException(ERROR_MSG);
+            AqualityServices.getLogger().error("Settings file %s not found or incorrect. Error msg: %s".formatted(filePath, e));
+            throw new RuntimeException(e);
         }
     }
 }

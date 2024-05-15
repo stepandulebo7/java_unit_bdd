@@ -4,6 +4,7 @@ import aquality.selenium.browser.AqualityServices;
 import aquality.selenium.elements.ElementType;
 import aquality.selenium.elements.interfaces.ILabel;
 import aquality.selenium.forms.Form;
+import constants.LocatorConstants;
 import org.openqa.selenium.By;
 
 import java.util.ArrayList;
@@ -19,6 +20,7 @@ public class DataTablesPage extends Form {
 
     public List<String> getFirstDueList() {
         List<String> dueList = new ArrayList<>();
+
         for (ILabel label: getFirstDueLblList()) {
             dueList.add(label.getText());
         }
@@ -26,7 +28,6 @@ public class DataTablesPage extends Form {
     }
 
     private List<ILabel> getFirstDueLblList() {
-        return AqualityServices.getElementFactory().findElements(DUE, "due",
-                ElementType.LABEL);
+        return AqualityServices.getElementFactory().findElements(DUE, "due", ElementType.LABEL);
     }
 }
