@@ -11,8 +11,9 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <allure.version>2.21.0</allure.version>
-        <aspectj.version>1.9.5</aspectj.version>
+        <aspectj.version>1.9.22.1</aspectj.version>
         <cucumber.version>5.7.0</cucumber.version>
     </properties>
 
@@ -66,7 +67,7 @@
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-cucumber5-jvm</artifactId>
-            <version>2.19.0</version>
+            <version>${allure.version}</version>
         </dependency>
     </dependencies>
 
