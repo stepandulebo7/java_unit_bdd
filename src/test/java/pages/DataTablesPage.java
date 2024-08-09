@@ -21,7 +21,7 @@ public class DataTablesPage extends Form {
     public List<String> getFirstDueList() {
         List<String> dueList = new ArrayList<>();
 
-        for (ILabel label: getFirstDueLblList()) {
+        for (ILabel label : getFirstDueLblList()) {
             dueList.add(label.getText());
         }
         return dueList;
