@@ -1,0 +1,927 @@
+2025-03-10 15:03:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-10 15:03:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-10 15:03:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-10 15:03:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-10 15:03:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-10 15:03:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-10 15:03:52 INFO  - Browser 'CHROME' ready...
+2025-03-10 15:03:52 INFO  - Maximizing browser window
+2025-03-10 15:03:52 INFO  - Browser 'CHROME' ready...
+2025-03-10 15:03:52 INFO  - Maximizing browser window
+2025-03-10 15:03:53 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-03-10 15:03:53 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-03-10 15:03:54 INFO  - Link 'JavaScript Alerts' :: Clicking
+2025-03-10 15:03:55 INFO  - Link 'Sortable Data Tables' :: Clicking
+2025-03-10 15:03:55 INFO  - Button 'Click for JS alert' :: Clicking
+2025-03-10 15:03:55 INFO  - Accepting browser alert
+2025-03-10 15:03:55 INFO  - Closing browser
+2025-03-10 15:03:56 INFO  - Label 'due 1' :: Getting text from element
+2025-03-10 15:03:56 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2025-03-10 15:03:56 INFO  - Label 'due 2' :: Getting text from element
+2025-03-10 15:03:56 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2025-03-10 15:03:56 INFO  - Label 'due 3' :: Getting text from element
+2025-03-10 15:03:56 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2025-03-10 15:03:56 INFO  - Label 'due 4' :: Getting text from element
+2025-03-10 15:03:56 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2025-03-10 15:03:56 INFO  - Closing browser
+2025-03-10 15:21:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-10 15:21:38 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-10 15:21:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-10 15:21:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-10 15:21:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-10 15:21:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-10 15:21:40 INFO  - Browser 'CHROME' ready...
+2025-03-10 15:21:40 INFO  - Maximizing browser window
+2025-03-10 15:21:40 INFO  - Browser 'CHROME' ready...
+2025-03-10 15:21:40 INFO  - Maximizing browser window
+2025-03-10 15:21:40 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-03-10 15:21:40 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-03-10 15:21:41 INFO  - Link 'Sortable Data Tables' :: Clicking
+2025-03-10 15:21:42 INFO  - Link 'JavaScript Alerts' :: Clicking
+2025-03-10 15:21:42 INFO  - Button 'Click for JS alert' :: Clicking
+2025-03-10 15:21:42 INFO  - Accepting browser alert
+2025-03-10 15:21:42 INFO  - Closing browser
+2025-03-10 15:21:42 INFO  - Label 'due 1' :: Getting text from element
+2025-03-10 15:21:43 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2025-03-10 15:21:43 INFO  - Label 'due 2' :: Getting text from element
+2025-03-10 15:21:43 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2025-03-10 15:21:43 INFO  - Label 'due 3' :: Getting text from element
+2025-03-10 15:21:43 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2025-03-10 15:21:43 INFO  - Label 'due 4' :: Getting text from element
+2025-03-10 15:21:43 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2025-03-10 15:21:43 INFO  - Closing browser
+2025-03-10 15:33:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-10 15:33:32 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-10 15:33:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-10 15:33:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-10 15:33:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-10 15:33:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-10 15:33:34 INFO  - Browser 'CHROME' ready...
+2025-03-10 15:33:34 INFO  - Maximizing browser window
+2025-03-10 15:33:34 INFO  - Browser 'CHROME' ready...
+2025-03-10 15:33:34 INFO  - Maximizing browser window
+2025-03-10 15:33:34 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-03-10 15:33:34 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-03-10 15:33:35 INFO  - Link 'Sortable Data Tables' :: Clicking
+2025-03-10 15:33:36 INFO  - Link 'JavaScript Alerts' :: Clicking
+2025-03-10 15:33:36 INFO  - Button 'Click for JS alert' :: Clicking
+2025-03-10 15:33:37 INFO  - Accepting browser alert
+2025-03-10 15:33:37 INFO  - Closing browser
+2025-03-10 15:33:37 INFO  - Label 'due 1' :: Getting text from element
+2025-03-10 15:33:37 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2025-03-10 15:33:37 INFO  - Label 'due 2' :: Getting text from element
+2025-03-10 15:33:37 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2025-03-10 15:33:37 INFO  - Label 'due 3' :: Getting text from element
+2025-03-10 15:33:37 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2025-03-10 15:33:37 INFO  - Label 'due 4' :: Getting text from element
+2025-03-10 15:33:37 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2025-03-10 15:33:37 INFO  - Closing browser
+2025-03-11 18:54:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 18:54:54 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 18:54:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 18:54:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 18:54:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 18:54:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 18:54:58 INFO  - Browser 'CHROME' ready...
+2025-03-11 18:54:58 INFO  - Browser 'CHROME' ready...
+2025-03-11 18:54:58 INFO  - Maximizing browser window
+2025-03-11 18:54:58 INFO  - Maximizing browser window
+2025-03-11 18:54:58 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:54:58 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:54:58 INFO  - Maximizing browser window
+2025-03-11 18:54:58 INFO  - Closing browser
+2025-03-11 18:54:59 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:54:59 INFO  - Closing browser
+2025-03-11 18:55:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 18:55:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 18:55:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 18:55:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 18:55:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 18:55:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 18:55:23 INFO  - Browser 'CHROME' ready...
+2025-03-11 18:55:23 INFO  - Maximizing browser window
+2025-03-11 18:55:23 INFO  - Browser 'CHROME' ready...
+2025-03-11 18:55:23 INFO  - Maximizing browser window
+2025-03-11 18:55:23 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:55:23 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:55:24 INFO  - Maximizing browser window
+2025-03-11 18:55:24 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:56:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 18:56:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 18:56:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 18:56:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 18:56:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 18:56:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 18:56:48 INFO  - Browser 'CHROME' ready...
+2025-03-11 18:56:48 INFO  - Maximizing browser window
+2025-03-11 18:56:48 INFO  - Browser 'CHROME' ready...
+2025-03-11 18:56:48 INFO  - Maximizing browser window
+2025-03-11 18:56:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:56:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 18:56:49 INFO  - Maximizing browser window
+2025-03-11 18:56:49 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:02:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 19:02:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 19:02:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:02:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:02:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:02:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:02:22 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:02:22 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:02:22 INFO  - Maximizing browser window
+2025-03-11 19:02:22 INFO  - Maximizing browser window
+2025-03-11 19:02:22 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:02:22 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:02:23 INFO  - Maximizing browser window
+2025-03-11 19:02:23 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:02:23 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 19:02:23 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 19:15:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 19:15:48 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 19:15:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:15:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:15:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:15:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:15:50 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:15:50 INFO  - Maximizing browser window
+2025-03-11 19:15:50 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:15:50 INFO  - Maximizing browser window
+2025-03-11 19:15:50 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:15:50 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:15:50 INFO  - Maximizing browser window
+2025-03-11 19:15:51 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:15:51 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 19:15:51 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 19:15:51 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 19:57:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 19:57:44 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 19:57:47 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:57:47 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:57:47 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:57:47 INFO  - Maximizing browser window
+2025-03-11 19:57:47 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:57:48 INFO  - Maximizing browser window
+2025-03-11 19:57:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:57:48 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 19:57:48 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 19:57:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:57:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:57:48 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:57:48 INFO  - Maximizing browser window
+2025-03-11 19:57:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:57:49 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 19:57:51 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 19:58:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 19:58:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 19:58:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:58:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 19:58:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:58:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 19:58:18 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:58:18 INFO  - Maximizing browser window
+2025-03-11 19:58:18 INFO  - Browser 'CHROME' ready...
+2025-03-11 19:58:18 INFO  - Maximizing browser window
+2025-03-11 19:58:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:58:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:58:19 INFO  - Maximizing browser window
+2025-03-11 19:58:19 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 19:58:19 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 19:58:19 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 19:58:19 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 19:58:22 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:01:22 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 20:01:22 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:01:24 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:01:24 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:01:24 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:01:24 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:01:24 INFO  - Maximizing browser window
+2025-03-11 20:01:24 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:01:24 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:01:24 INFO  - Maximizing browser window
+2025-03-11 20:01:24 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:01:24 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:01:24 INFO  - Maximizing browser window
+2025-03-11 20:01:24 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:01:25 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:01:25 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:01:25 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:01:28 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:03:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 20:03:50 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:03:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:03:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:03:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:03:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:03:52 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:03:52 INFO  - Maximizing browser window
+2025-03-11 20:03:52 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:03:52 INFO  - Maximizing browser window
+2025-03-11 20:03:52 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:03:52 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:03:53 INFO  - Maximizing browser window
+2025-03-11 20:03:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:03:53 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:03:53 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:03:54 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:03:56 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:12:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 20:12:53 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:12:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:12:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:12:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:12:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:12:54 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:12:54 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:12:54 INFO  - Maximizing browser window
+2025-03-11 20:12:54 INFO  - Maximizing browser window
+2025-03-11 20:12:54 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:12:54 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:12:55 INFO  - Maximizing browser window
+2025-03-11 20:12:55 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:12:56 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:12:56 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:12:56 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:12:58 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:12:58 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:13:22 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-03-11 20:13:22 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:13:24 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:13:24 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:13:24 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:13:24 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:13:24 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:13:24 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:13:24 INFO  - Maximizing browser window
+2025-03-11 20:13:24 INFO  - Maximizing browser window
+2025-03-11 20:13:24 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:13:24 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:13:25 INFO  - Maximizing browser window
+2025-03-11 20:13:25 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:13:25 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:13:25 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:13:25 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:13:28 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:13:28 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:38:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:38:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:38:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:38:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:38:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:38:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:38:18 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:38:18 INFO  - Maximizing browser window
+2025-03-11 20:38:18 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:38:18 INFO  - Maximizing browser window
+2025-03-11 20:38:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:38:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:38:18 INFO  - Maximizing browser window
+2025-03-11 20:38:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:38:19 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:38:19 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:38:19 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:38:21 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:38:21 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:38:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:38:58 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:39:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:39:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:39:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:39:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:39:00 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:39:00 INFO  - Maximizing browser window
+2025-03-11 20:39:00 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:39:00 INFO  - Maximizing browser window
+2025-03-11 20:39:00 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:39:00 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:39:00 INFO  - Maximizing browser window
+2025-03-11 20:39:00 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:39:01 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:39:01 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:39:01 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:39:03 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:39:03 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:40:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:40:49 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:40:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:40:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:40:51 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:40:51 INFO  - Maximizing browser window
+2025-03-11 20:40:51 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:40:51 INFO  - Maximizing browser window
+2025-03-11 20:40:51 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:40:51 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:40:51 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:40:52 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:40:54 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:40:54 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:40:55 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:42:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:42:53 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:42:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:42:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:42:54 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:42:54 INFO  - Maximizing browser window
+2025-03-11 20:42:54 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:42:55 INFO  - Maximizing browser window
+2025-03-11 20:42:55 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:42:55 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:42:55 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:42:56 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:42:58 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:42:58 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:44:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:44:40 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:44:42 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:44:42 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:44:42 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:44:42 INFO  - Maximizing browser window
+2025-03-11 20:44:42 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:44:42 INFO  - Maximizing browser window
+2025-03-11 20:44:42 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:44:42 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:44:42 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:44:43 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:44:45 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:44:45 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:44:46 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:51:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:51:32 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:51:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:51:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:51:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:51:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:51:33 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:51:33 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:51:33 INFO  - Maximizing browser window
+2025-03-11 20:51:33 INFO  - Maximizing browser window
+2025-03-11 20:51:33 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:51:33 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:51:34 INFO  - Maximizing browser window
+2025-03-11 20:51:34 INFO  - Maximizing browser window
+2025-03-11 20:51:34 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:51:34 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:51:34 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:51:34 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:51:34 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:51:34 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:51:35 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:51:35 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:51:37 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:51:37 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:51:38 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:55:51 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:55:51 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:55:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:55:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:55:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:55:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:55:52 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:55:52 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:55:52 INFO  - Maximizing browser window
+2025-03-11 20:55:52 INFO  - Maximizing browser window
+2025-03-11 20:55:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:55:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:55:53 INFO  - Maximizing browser window
+2025-03-11 20:55:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:55:53 INFO  - Maximizing browser window
+2025-03-11 20:55:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:55:53 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:55:53 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:55:53 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:55:53 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:55:54 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:55:54 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:55:56 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 20:55:57 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 20:55:57 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 20:55:57 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:55:57 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 20:55:57 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:55:58 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:57:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:57:06 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:57:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:57:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:57:08 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:57:08 INFO  - Maximizing browser window
+2025-03-11 20:57:08 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:57:08 INFO  - Maximizing browser window
+2025-03-11 20:57:08 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:57:08 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:57:08 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:57:09 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:57:11 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 20:57:11 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 20:58:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 20:58:49 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 20:58:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:58:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 20:58:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:58:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 20:58:53 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:58:53 INFO  - Browser 'CHROME' ready...
+2025-03-11 20:58:53 INFO  - Maximizing browser window
+2025-03-11 20:58:53 INFO  - Maximizing browser window
+2025-03-11 20:58:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:58:53 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:58:54 INFO  - Maximizing browser window
+2025-03-11 20:58:54 INFO  - Maximizing browser window
+2025-03-11 20:58:54 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:58:54 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 20:58:54 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:58:54 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:58:54 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 20:58:54 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 20:58:54 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:58:54 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 20:58:57 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 20:58:57 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 20:58:57 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 20:58:57 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 20:58:57 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 20:58:57 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 20:58:58 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:01:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:01:55 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:01:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:01:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:01:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:01:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:01:56 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:01:56 INFO  - Maximizing browser window
+2025-03-11 21:01:56 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:01:56 INFO  - Maximizing browser window
+2025-03-11 21:01:56 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:01:56 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:01:56 INFO  - Maximizing browser window
+2025-03-11 21:01:57 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:01:57 INFO  - Maximizing browser window
+2025-03-11 21:01:57 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:01:57 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:01:57 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:01:57 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:01:57 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:01:57 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:01:58 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:02:00 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:02:00 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:02:01 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:02:01 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:02:01 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:02:01 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:02:02 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:04:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:04:08 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:04:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:04:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:04:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:04:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:04:10 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:04:10 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:04:10 INFO  - Maximizing browser window
+2025-03-11 21:04:10 INFO  - Maximizing browser window
+2025-03-11 21:04:10 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:04:10 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:04:11 INFO  - Maximizing browser window
+2025-03-11 21:04:11 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:04:11 INFO  - Maximizing browser window
+2025-03-11 21:04:11 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:04:11 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:04:11 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:04:11 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:04:11 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:04:11 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:04:11 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:04:15 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:04:15 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:04:15 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:04:15 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:04:15 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:04:16 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:04:16 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:09:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:09:08 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:09:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:09:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:09:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:09:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:09:10 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:09:10 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:09:10 INFO  - Maximizing browser window
+2025-03-11 21:09:10 INFO  - Maximizing browser window
+2025-03-11 21:09:10 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:09:10 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:09:10 INFO  - Maximizing browser window
+2025-03-11 21:09:11 INFO  - Maximizing browser window
+2025-03-11 21:09:11 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:09:11 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:09:11 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:09:11 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:09:11 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:09:11 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:09:12 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:09:12 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:09:14 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:09:15 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:09:15 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:09:15 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:09:15 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:09:16 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:09:16 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:12:10 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:12:10 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:12:11 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:12:11 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:12:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:12:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:12:11 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:12:11 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:12:11 INFO  - Maximizing browser window
+2025-03-11 21:12:11 INFO  - Maximizing browser window
+2025-03-11 21:12:12 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:12:12 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:12:12 INFO  - Maximizing browser window
+2025-03-11 21:12:12 INFO  - Maximizing browser window
+2025-03-11 21:12:12 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:12:12 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:12:12 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:12:12 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:12:12 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:12:12 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:12:13 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:12:13 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:12:15 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:12:15 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:12:15 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:12:15 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:12:15 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:12:15 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:12:15 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:12:15 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:12:16 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:19:29 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:19:29 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:19:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:19:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:19:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:19:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:19:30 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:19:30 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:19:30 INFO  - Maximizing browser window
+2025-03-11 21:19:30 INFO  - Maximizing browser window
+2025-03-11 21:19:30 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:19:30 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:19:31 INFO  - Maximizing browser window
+2025-03-11 21:19:31 INFO  - Maximizing browser window
+2025-03-11 21:19:31 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:19:31 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:19:31 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:19:31 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:19:31 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:19:31 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:19:32 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:19:32 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:19:34 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:19:34 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:19:34 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:19:34 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:19:34 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:19:35 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:19:35 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:19:35 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:19:36 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:19:36 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
+2025-03-11 21:21:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:21:15 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:21:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:21:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:21:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:21:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:21:17 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:21:17 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:21:17 INFO  - Maximizing browser window
+2025-03-11 21:21:17 INFO  - Maximizing browser window
+2025-03-11 21:21:17 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:21:17 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:21:18 INFO  - Maximizing browser window
+2025-03-11 21:21:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:21:19 INFO  - Maximizing browser window
+2025-03-11 21:21:19 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:21:19 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:21:19 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:21:19 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:21:19 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:21:19 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:21:19 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:21:21 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:21:21 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:21:21 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:21:21 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:21:22 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:21:23 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
+2025-03-11 21:21:23 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:21:23 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:21:23 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:21:23 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:22:24 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:22:24 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:22:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:22:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:22:26 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:22:26 INFO  - Maximizing browser window
+2025-03-11 21:22:26 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:22:26 INFO  - Maximizing browser window
+2025-03-11 21:22:27 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:22:27 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:22:27 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:22:27 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:22:30 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:22:30 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:22:30 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:22:30 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:23:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:23:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:23:47 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:23:47 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:23:47 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:23:47 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:23:47 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:23:47 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:23:47 INFO  - Maximizing browser window
+2025-03-11 21:23:47 INFO  - Maximizing browser window
+2025-03-11 21:23:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:23:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:23:48 INFO  - Maximizing browser window
+2025-03-11 21:23:48 INFO  - Maximizing browser window
+2025-03-11 21:23:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:23:49 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:23:49 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:23:49 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:23:49 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:23:49 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:23:49 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:23:49 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:23:52 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:23:52 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:23:52 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:23:52 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:23:52 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:23:52 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:23:52 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:23:52 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:23:53 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:23:54 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
+2025-03-11 21:26:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:26:40 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:26:42 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:26:42 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:26:42 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:26:42 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:26:42 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:26:42 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:26:42 INFO  - Maximizing browser window
+2025-03-11 21:26:42 INFO  - Maximizing browser window
+2025-03-11 21:26:42 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:26:42 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:26:42 INFO  - Maximizing browser window
+2025-03-11 21:26:43 INFO  - Maximizing browser window
+2025-03-11 21:26:43 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:26:43 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:26:43 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:26:43 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:26:43 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:26:43 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:26:43 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:26:43 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:26:45 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:26:46 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:26:46 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:26:46 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:26:46 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:26:46 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:26:46 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:26:46 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:26:47 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:26:47 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:26:47 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
+2025-03-11 21:34:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:34:39 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:34:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:34:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:34:40 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:34:40 INFO  - Maximizing browser window
+2025-03-11 21:34:40 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:34:41 INFO  - Maximizing browser window
+2025-03-11 21:34:41 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:34:41 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:34:41 INFO  - Text Field 'Search Box' :: Typing 'Gabriel García Márquez'
+2025-03-11 21:43:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:43:14 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:43:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:43:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:43:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:43:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:43:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:43:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:43:16 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:43:16 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:43:16 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:43:16 INFO  - Maximizing browser window
+2025-03-11 21:43:16 INFO  - Maximizing browser window
+2025-03-11 21:43:16 INFO  - Maximizing browser window
+2025-03-11 21:43:16 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:43:16 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:43:16 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:43:17 INFO  - Maximizing browser window
+2025-03-11 21:43:17 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:43:18 INFO  - Maximizing browser window
+2025-03-11 21:43:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:43:18 INFO  - Maximizing browser window
+2025-03-11 21:43:18 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:43:18 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:43:18 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:43:18 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:43:18 INFO  - Text Field 'Search Box' :: Typing 'Gabriel García Márquez'
+2025-03-11 21:43:18 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:43:18 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:43:18 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:43:18 INFO  - ComboBox 'Change language button' :: Selecting value - 'es'
+2025-03-11 21:43:18 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:43:20 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:43:20 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:43:20 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:43:20 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:43:21 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:43:22 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
+2025-03-11 21:43:22 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:43:22 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:43:22 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:43:22 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:43:23 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:56:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 21:56:26 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 21:56:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:56:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:56:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 21:56:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:56:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:56:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 21:56:28 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:56:28 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:56:28 INFO  - Browser 'CHROME' ready...
+2025-03-11 21:56:28 INFO  - Maximizing browser window
+2025-03-11 21:56:28 INFO  - Maximizing browser window
+2025-03-11 21:56:28 INFO  - Maximizing browser window
+2025-03-11 21:56:28 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:56:28 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:56:28 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:56:28 INFO  - Maximizing browser window
+2025-03-11 21:56:29 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:56:29 INFO  - Maximizing browser window
+2025-03-11 21:56:29 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:56:29 INFO  - Maximizing browser window
+2025-03-11 21:56:29 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:56:29 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 21:56:29 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:56:29 INFO  - Text Field 'Search Box' :: Typing 'Gabriel García Márquez'
+2025-03-11 21:56:29 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 21:56:30 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 21:56:30 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 21:56:30 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:56:30 INFO  - Button 'Change language button' :: Clicking
+2025-03-11 21:56:30 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:56:30 INFO  - Button 'asdasdasd' :: Clicking
+2025-03-11 21:56:30 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:56:34 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:56:34 INFO  - Label 'Header text' :: Element's text: [Gabriel García Márquez]
+2025-03-11 21:56:34 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:56:34 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:56:34 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 21:56:34 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:56:35 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 21:56:35 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 21:56:35 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 21:56:35 INFO  - Link 'Page information' :: Clicking
+2025-03-11 21:56:36 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 21:56:36 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 21:56:36 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
+2025-03-11 22:26:29 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/main/resources}
+2025-03-11 22:26:29 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-03-11 22:26:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 22:26:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 22:26:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-03-11 22:26:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 22:26:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 22:26:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-03-11 22:26:32 INFO  - Browser 'CHROME' ready...
+2025-03-11 22:26:32 INFO  - Browser 'CHROME' ready...
+2025-03-11 22:26:32 INFO  - Maximizing browser window
+2025-03-11 22:26:32 INFO  - Maximizing browser window
+2025-03-11 22:26:32 INFO  - Browser 'CHROME' ready...
+2025-03-11 22:26:32 INFO  - Maximizing browser window
+2025-03-11 22:26:32 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 22:26:32 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 22:26:32 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 22:26:32 INFO  - Maximizing browser window
+2025-03-11 22:26:33 INFO  - Maximizing browser window
+2025-03-11 22:26:33 INFO  - Maximizing browser window
+2025-03-11 22:26:33 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 22:26:33 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 22:26:33 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2025-03-11 22:26:33 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 22:26:33 INFO  - Text Field 'Search Box' :: Typing 'Gabriel García Márquez'
+2025-03-11 22:26:33 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 22:26:33 INFO  - Text Field 'Search Box' :: Typing 'Bengal tiger'
+2025-03-11 22:26:33 INFO  - Text Field 'Search Box' :: Clearing
+2025-03-11 22:26:33 INFO  - Text Field 'Search Box' :: Typing 'Albert Einstein'
+2025-03-11 22:26:34 INFO  - Button 'Change language button' :: Clicking
+2025-03-11 22:26:34 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 22:26:34 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 22:26:34 INFO  - Button 'asdasdasd' :: Clicking
+2025-03-11 22:26:35 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 22:26:36 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 22:26:36 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 22:26:36 INFO  - Label 'Header text' :: Element's text: [Bengal tiger]
+2025-03-11 22:26:36 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 22:26:36 INFO  - Link 'Page information' :: Clicking
+2025-03-11 22:26:36 INFO  - Label 'Header text' :: Element's text: [Albert Einstein]
+2025-03-11 22:26:36 INFO  - Button 'Tools button' :: Clicking
+2025-03-11 22:26:36 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 22:26:37 INFO  - Link 'Download as PDF' :: Clicking
+2025-03-11 22:26:37 INFO  - Label 'Header text' :: Element's text: [Gabriel García Márquez]
+2025-03-11 22:26:37 INFO  - Label 'Header text' :: Getting text from element
+2025-03-11 22:26:37 INFO  - Button 'Submit button' :: Clicking
+2025-03-11 22:26:37 INFO  - Label 'Header text' :: Element's text: [Information for "Bengal tiger"]
